@@ -1,0 +1,6 @@
+# Editor and tool caches
+.idea/
+.vscode/
+.impeccable/
+.DS_Store
+Thumbs.db
